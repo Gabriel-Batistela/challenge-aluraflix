@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Queen - Bohemian Rapsody",
+    "descricao": "Queen foi uma banda britânica de rock, fundada em 1970 e ativa, sob sua formação clássica, até 1991. O grupo, formado por Brian May, Freddie Mercury, John Deacon e Roger Taylor, é frequentemente citado como um dos expoentes do seu estilo, também sendo um dos recordistas de vendas de discos a nível mundial.",
+    "imagem": "https://igormiranda.com.br/wp-content/uploads/2021/08/queen-1984-banda-freddie-mercury.jpg",
+    "link": "https://youtu.be/fJ9rUzIMcZQ?si=jbQ9xVgPfbJ_mEVO",
+    "categoria": "Rock"
+  },
+  {
+    "id": 2,
+    "titulo": "Led Zeppelin - Stairway To Heaven",
+    "descricao": "Led Zeppelin foi uma banda britânica de rock formada em Londres, em 1968. Consistia no guitarrista Jimmy Page, no vocalista Robert Plant, no baixista e tecladista John Paul Jones e no baterista John Bonham.",
+    "imagem": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/7/e/3/47e3b5388d8e851c79a64c774245fe74.jpg",
+    "link": "https://youtu.be/QkF3oxziUI4?si=yORwb1UHoihtUt2D",
+    "categoria": "Rock"
+  },
+  {
+    " id:": 3,
+    "titulo": "Red Hot Chili Peppers - Otherside",
+    "descricao": "Red Hot Chili Peppers é uma banda de rock dos Estados Unidos formada em Los Angeles, Califórnia, em 1983. O estilo musical do grupo consiste principalmente no funk rock, bem como elementos de outros gêneros, tais como punk, rock alternativo, rap rock e rock psicodélico.",
+    "imagem": "https://rollingstone.com.br/media/_versions/red_hot_chili_peppers_foto_handout_photo_by_mtvgetty_images_widelg.jpg",
+    "link": "https://youtu.be/rn_YodiJO6k?si=l7glaWcjv-7AgUwy",
+    "categoria": "Rock"
+  },
+  {
+    "id": 4,
+    "titulo": "Metallica - Nothing Else Matters",
+    "descricao": "Metallica é uma banda norte-americana de metal originária de Los Angeles, mas com base em San Francisco. O seu repertório inclui tempos rápidos, pesados, melódicos, instrumentais e musicalidade agressiva.",
+    "imagem": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/b/e/3/cbe32534b5d42220e47b16a1a9c9c0dd.jpg",
+    "link": "https://youtu.be/tAGnKpE4NCI?si=AA1ZOlqkDrE1Vzv4",
+    "categoria": "Metal"
+  },
+  {
+    "id": 5,
+    "titulo": "Slipknot - Vermillion Pt.2",
+    "descricao": "Slipknot é uma banda norte-americana de metal formada em Des Moines, Iowa, em 1995. Seu estilo musical é o nu metal, que explodiu no fim dos anos 1990 nos Estados Unidos.",
+    "imagem": "https://rollingstone.com.br/media/_versions/2022/12/slipknot-foto-anthony-scanga_widelg.jpg",
+    "link": "https://youtu.be/LvetJ9U_tVY?si=NgNvbzq_hI9roN5m",
+    "categoria": "Metal"
+  },
+  {
+    "id": 6,
+    "titulo": "Iron Maiden - Fear Of The Dark",
+    "descricao": "Iron Maiden é uma banda inglesa de metal formada em Leyton, East London, em 1975 pelo baixista e compositor Steve Harris.",
+    "imagem": "https://static.itapemafm.com.br/s3fs-public/styles/itapema_blog_post_header/public/graphql-upload-files/Iron%20maiden_0.jpg?H_OSVDN6j6LIGoA4OVZvvPXPo5c2fG5M&itok=CU0TAJMV",
+    "link": "https://youtu.be/bePCRKGUwAY?si=7jQ4B5XBXGYpr86z",
+    "categoria": "Metal"
+  },
+  {
+    "id": 7,
+    "titulo": "AC/DC - Thunderstruck",
+    "descricao": "AC/DC é uma banda australiana de rock formada em Sydney, Austrália em 1973, pelos irmãos escoceses Malcolm e Angus Young. O estilo musical da banda é normalmente classificado como hard rock e até mesmo blues rock. Mas seus membros sempre classificaram a sua música simplesmente como 'rock and roll'.",
+    "imagem": "https://ogimg.infoglobo.com.br/in/24680958-990-f6f/FT1500A/690/acdc.jpg",
+    "link": "https://youtu.be/v2AC41dglnM?si=6WlXVPjQnd-oLp0E",
+    "categoria": "Hard Rock"
+  },
+  {
+    "id": 8,
+    "titulo": "Guns N' Roses - Welcome To The Jungle",
+    "descricao": "Guns N' Roses é uma banda norte-americana de hard rock formada em Los Angeles, Califórnia, em 1985. A banda lançou, até o momento, seis álbuns de estúdio, três EPs e um álbum ao vivo. A banda vendeu mais de 100 milhões de cópias em todo o mundo, sendo cerca de 43 milhões somente nos Estados Unidos.",
+    "imagem": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/1/6/5416d9ee2db3cf86b60997a55820c41a.jpg",
+    "link": "https://youtu.be/o1tj2zJ2Wvg?si=zbmCYIYTmOTm3xp5",
+    "categoria": "Hard Rock"
+  },
+  {
+    "id": 9,
+    "titulo": "Aerosmith - Dream On",
+    "descricao": "Aerosmith é uma banda norte-americana de rock, por vezes referida como The Bad Boys from Boston e 'A Maior Banda de Rock and Roll da América'.",
+    "imagem": "https://lh3.googleusercontent.com/Bmi2VZEik-ltQ2yHGmldiI0Cf4V0pX7YRQ8qCvJ0RMJr9ISjs4aeTB0YZ-e6y_FFhP19dl_HT5iWtkM=w1920-h800-p-l90-rj",
+    "link": "https://youtu.be/89dGC8de0CA?si=Igdwniy18UdO_yWx",
+    "categoria": "Hard Rock"
+  }
+]

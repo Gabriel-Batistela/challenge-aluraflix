@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "titulo": "Queen - Bohemian Rapsody",
+    "descricao": "Queen foi uma banda britânica de rock, fundada em 1970 e ativa, sob sua formação clássica, até 1991. O grupo, formado por Brian May, Freddie Mercury, John Deacon e Roger Taylor, é frequentemente citado como um dos expoentes do seu estilo, também sendo um dos recordistas de vendas de discos a nível mundial.",
+    "imagem": "https://igormiranda.com.br/wp-content/uploads/2021/08/queen-1984-banda-freddie-mercury.jpg",
+    "link": "https://youtu.be/fJ9rUzIMcZQ?si=jbQ9xVgPfbJ_mEVO",
+    "categoria": "Rock"
+  },
+  {
+    " id:": 3,
+    "titulo": "Red Hot Chili Peppers - Otherside",
+    "descricao": "Red Hot Chili Peppers é uma banda de rock dos Estados Unidos formada em Los Angeles, Califórnia, em 1983. O estilo musical do grupo consiste principalmente no funk rock, bem como elementos de outros gêneros, tais como punk, rock alternativo, rap rock e rock psicodélico.",
+    "imagem": "https://rollingstone.com.br/media/_versions/red_hot_chili_peppers_foto_handout_photo_by_mtvgetty_images_widelg.jpg",
+    "link": "https://youtu.be/rn_YodiJO6k?si=l7glaWcjv-7AgUwy",
+    "categoria": "Rock"
+  },
+  {
+    "id": 4,
+    "titulo": "Metallica - Nothing Else Matters",
+    "descricao": "Metallica é uma banda norte-americana de metal originária de Los Angeles, mas com base em San Francisco. O seu repertório inclui tempos rápidos, pesados, melódicos, instrumentais e musicalidade agressiva.",
+    "imagem": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/b/e/3/cbe32534b5d42220e47b16a1a9c9c0dd.jpg",
+    "link": "https://youtu.be/tAGnKpE4NCI?si=AA1ZOlqkDrE1Vzv4",
+    "categoria": "Metal"
+  },
+  {
+    "id": 5,
+    "titulo": "Slipknot - Vermillion Pt.2",
+    "descricao": "Slipknot é uma banda norte-americana de metal formada em Des Moines, Iowa, em 1995. Seu estilo musical é o nu metal, que explodiu no fim dos anos 1990 nos Estados Unidos.",
+    "imagem": "https://rollingstone.com.br/media/_versions/2022/12/slipknot-foto-anthony-scanga_widelg.jpg",
+    "link": "https://youtu.be/LvetJ9U_tVY?si=NgNvbzq_hI9roN5m",
+    "categoria": "Metal"
+  },
+  {
+    "id": 7,
+    "titulo": "AC/DC - Thunderstruck",
+    "descricao": "AC/DC é uma banda australiana de rock formada em Sydney, Austrália em 1973, pelos irmãos escoceses Malcolm e Angus Young. O estilo musical da banda é normalmente classificado como hard rock e até mesmo blues rock. Mas seus membros sempre classificaram a sua música simplesmente como 'rock and roll'.",
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUOx32W0IDZ7OCXX0ZBjHotpf6SfjjSoxaET1e3dDbIN0Z5ijdtOkJDhha6NYJdYOImtACwvvAlaoesOJWkFLd0TmdCCUzEaKIcFGwit28J7NOyTrvCjzAsETHgjFWcakLN6qOwPqxHrw/s1014/acdc+fptp.jpg",
+    "link": "https://youtu.be/v2AC41dglnM?si=6WlXVPjQnd-oLp0E",
+    "categoria": "Hard Rock"
+  },
+  {
+    "id": 8,
+    "titulo": "Guns N' Roses - Welcome To The Jungle",
+    "descricao": "Guns N' Roses é uma banda norte-americana de hard rock formada em Los Angeles, Califórnia, em 1985. A banda lançou, até o momento, seis álbuns de estúdio, três EPs e um álbum ao vivo. A banda vendeu mais de 100 milhões de cópias em todo o mundo, sendo cerca de 43 milhões somente nos Estados Unidos.",
+    "imagem": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/1/6/5416d9ee2db3cf86b60997a55820c41a.jpg",
+    "link": "https://youtu.be/o1tj2zJ2Wvg?si=zbmCYIYTmOTm3xp5",
+    "categoria": "Hard Rock"
+  }
+]

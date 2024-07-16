@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1000,
+        "nome": "Rock",
+        "cor": "#a80000"
+    },
+    {
+        "id": 2000,
+        "nome": "Metal",
+        "cor": "#005186"
+    },
+    {
+        "id": 3000,
+        "nome": "Hard Rock",
+        "cor": "#e4ab1d"
+    }
+]
